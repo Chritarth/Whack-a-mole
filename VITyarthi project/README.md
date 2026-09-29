@@ -36,8 +36,12 @@ This project was built to demonstrate core programming concepts in Python, inclu
 ## ⚙️ Steps to Install and Run
 
 Follow these instructions to get a copy of the project up and running on your local machine:-
-1. 
-
+1. Clone the repository
+git clone [https://github.com/Chritarth/whack-a-mole-python.git](https://github.com/Chritarth/whack-a-mole-python.git)
+2. Navigate to the project folder
+cd Whack-a-mole/VITyarthi project
+3. Run the application
+python code.py
 ### Prerequisites
 
 Ensure you have **Python 3.8+** installed on your computer. You can check your version by running:
