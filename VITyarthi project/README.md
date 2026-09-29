@@ -16,7 +16,7 @@ This project was built to demonstrate core programming concepts in Python, inclu
 
 - **Interactive Gameplay:** Mole appears and disappears at randomized positions.
 - **Timer & Score Tracking:** Real-time dynamic display of your current score and remaining game time.
-- **Difficulty Scaling** Difficulty scales with score gained.
+- **Difficulty Scaling:** Difficulty scales with score gained.
   
 
 ---
