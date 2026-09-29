@@ -47,6 +47,9 @@ def close():
     Config.cl=50
     if messagebox.askokcancel("Quit", "Are you sure you want to exit while the game is running"):
         root.destroy()
+    else:
+        Config.cl=0
+        countdown(Config.time)
 #Places Holes after start is pressed
 def PlaceHoles():
     canvas.create_oval(2,140,150,180, fill="black",outline="white",width=2)
