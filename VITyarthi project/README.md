@@ -17,7 +17,7 @@ This project was built to demonstrate core programming concepts in Python, inclu
 - **Interactive Gameplay:** Mole appears and disappears at randomized positions.
 - **Timer & Score Tracking:** Real-time dynamic display of your current score and remaining game time.
 - **Difficulty Scaling** The more the players scores the faster the mole gets.
-- 
+  
 
 ---
 
@@ -26,8 +26,8 @@ This project was built to demonstrate core programming concepts in Python, inclu
 - **Programming Language:** Python 3.x
 - **Libraries & Modules:**
   - `random` - For randomized mole appearances
-  - `tkinter` - For GUI and interaction with the mole
-  - `logic`- Dictates the game logic of randomaziation and object placement(User defined)
+  - `Tkinter` - For GUI and interaction with the mole
+  - `logic`- Dictates the game logic of randomiziation and object placement(User defined)
   - `Config`- Contains variables which can be modified to change certain aspects of the games(User defined)
   
 
