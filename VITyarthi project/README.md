@@ -39,9 +39,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 Open Windows terminal->
 git clone [https://github.com/Chritarth/Whack-a-mole](https://github.com/Chritarth/Whack-a-mole)
-3. Navigate to the project folder:
+2. Navigate to the project folder:
 cd Whack-a-mole/VITyarthi project
-4. Run the application:
+3. Run the application:
 python code.py
 ### Prerequisites
 
