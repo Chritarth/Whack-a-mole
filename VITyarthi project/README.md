@@ -38,7 +38,7 @@ This project was built to demonstrate core programming concepts in Python, inclu
 Follow these instructions to get a copy of the project up and running on your local machine:-
 1. Clone the repository:
 Open Windows terminal->
-git clone [https://github.com/Chritarth/Whack-a-mole/tree/main](https://github.com/Chritarth/Whack-a-mole/tree/main)
+git clone [https://github.com/Chritarth/Whack-a-mole](https://github.com/Chritarth/Whack-a-mole)
 3. Navigate to the project folder:
 cd Whack-a-mole/VITyarthi project
 4. Run the application:
